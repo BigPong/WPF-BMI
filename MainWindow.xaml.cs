@@ -29,5 +29,10 @@ namespace _0419WpfApp1
         {
             this.Close();
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }
