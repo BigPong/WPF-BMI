@@ -1,0 +1,15 @@
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\bin\Debug\0419WpfApp1.exe.config
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\bin\Debug\0419WpfApp1.exe
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\bin\Debug\0419WpfApp1.pdb
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\0419WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\App.g.cs
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\0419WpfApp1_MarkupCompile.cache
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\0419WpfApp1_MarkupCompile.lref
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\0419WpfApp1.g.resources
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\_0419WpfApp1.Properties.Resources.resources
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\0419WpfApp1.csproj.GenerateResource.cache
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\0419WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\0419WpfApp1.exe
+C:\Users\信如\Desktop\學校\程式\git\2018-04-19 WPF\0419WpfApp1\0419WpfApp1\obj\Debug\0419WpfApp1.pdb
